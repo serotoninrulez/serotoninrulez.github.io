@@ -1,6 +1,6 @@
 {
-    "name": "nft_music",
-    "short_name": "nft_music",
+    "name": "beatmarket",
+    "short_name": "beatmarket",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
